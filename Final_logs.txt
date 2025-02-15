@@ -1,0 +1,23 @@
+GCN: (10 epochs)
+Final Train Loss: 1.2284
+Final Validation Loss: 1.6484
+
+GAT: (10 epochs)
+Final Train Loss: 1.2036
+Final Validation Loss: 1.6893
+
+GraphSAGE: (30 epochs)
+Final Train Loss: 0.8926
+Final Validation Loss: 1.7029
+
+GIN: (30 epochs)
+Final Training Loss: 0.9891
+Final Validation Loss: 1.6586
+
+GGNN: (10 epochs)
+Final Training Loss: 1.0419
+Final Validation Loss: 1.6182
+
+Graphormer(6 epochs) --this was just for testing purposes()
+Final Training Loss: 0.0822
+Final Validation Loss: 0.0934
